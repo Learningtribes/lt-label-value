@@ -5,7 +5,7 @@ import "./component.scss"
 import SearchIcon from './search-solid.svg'
 import SyncIcon from './sync-alt-solid.svg'
 import TimesIcon from './times-solid.svg'
-import Dropdown from 'se-react-dropdown'
+import Dropdown from 'lt-react-dropdown'
 import {get} from 'loadsh'
 
 class Component extends React.Component {

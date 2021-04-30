@@ -42,11 +42,11 @@
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "se-react-dropdown": "^1.0.31"
+    "lt-react-dropdown": "^1.0.31"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seancy/se-react-dropdown.git"
+    "url": "git+https://github.com/Learningtribes/lt-react-dropdown.git"
   },
   "keywords": [
     "react",
@@ -54,8 +54,8 @@
     "range"
   ],
   "bugs": {
-    "url": "https://github.com/seancy/se-react-dropdown/issues"
+    "url": "https://github.com/Learningtribes/lt-react-dropdown/issues"
   },
-  "homepage": "https://github.com/seancy/se-react-dropdown#readme",
+  "homepage": "https://github.com/Learningtribes/lt-react-dropdown#readme",
   "description": "scope element Dropdown"
 }
