@@ -42,7 +42,7 @@
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "lt-react-dropdown": "^1.0.31"
+    "lt-react-dropdown": "^1.0.45"
   },
   "repository": {
     "type": "git",
