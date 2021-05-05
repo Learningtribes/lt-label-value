@@ -5,4 +5,4 @@ npm run transpile
 npm publish --access public
 
 cd ../hawthorn/platform
-npm install --save sec-react-label-value
+npm install --save lt-react-label-value

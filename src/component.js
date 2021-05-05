@@ -124,7 +124,7 @@ class Component extends React.Component {
         const CleverTimesIcon = useFontAwesome ? props=><i className="fal fa-times" {...props}/> : props=><TimesIcon {...props}/>;
 
         return (
-            <div ref={this.myRef} className={'sec-react-label-value ' + (this.props.className || '')}>
+            <div ref={this.myRef} className={'lt-react-label-value ' + (this.props.className || '')}>
                 <div className="element-wrapper">
                     <Dropdown data={data} onChange={this.updateSelectedItem.bind(this)} />
                     <div className="input-wrapper">
