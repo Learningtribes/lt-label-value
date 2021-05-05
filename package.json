@@ -1,6 +1,6 @@
 {
   "name": "lt-react-label-value",
-  "version": "1.0.40",
+  "version": "1.0.41",
   "main": "dist/component.js",
   "scripts": {
     "start": "webpack-dev-server",
