@@ -1,6 +1,6 @@
 {
   "name": "lt-react-label-value",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "main": "dist/component.js",
   "scripts": {
     "start": "webpack-dev-server",
@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "loadsh": "0.0.4",
-    "lt-react-dropdown": "^2.0.0",
+    "lt-react-dropdown": "^2.0.1",
     "prop-types": "^15.7.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0"
